@@ -1,2 +1,7 @@
-Some info
-this is tthe GitHub
+Git important commands:
+git remote add origin link     - for linking console with reposotoriy 
+git status      - status 
+git add         - add changes for commiting(. - all files or <filename> - for single filename)
+git restore     - for discarding changes (. - all files or <filename> - for single filename)
+git commit -m "some message"    - commiting message
+git push        - adding all commited files
