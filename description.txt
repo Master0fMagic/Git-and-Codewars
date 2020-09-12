@@ -11,5 +11,5 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M master
-git remote add origin your_link
+git remote add origin link
 git push -u origin master
