@@ -5,3 +5,11 @@ git add         - add changes for commiting(. - all files or <filename> - for si
 git restore     - for discarding changes (. - all files or <filename> - for single filename)
 git commit -m "some message"    - commiting message
 git push        - adding all commited files
+
+How to start with git:
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin your_link
+git push -u origin master
